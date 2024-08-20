@@ -3,4 +3,7 @@ Arquivo de aula Udemy
 teste de versionamento
 
 
-GOSTOU DAS INFORMCAOES?
+GOSTOU DAS INFORMÕES?'
+
+Aqui vai mais um teste local to repository.
+
